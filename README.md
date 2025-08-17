@@ -1,4 +1,4 @@
-# Jira Time-Tracking Assistant
+# Jira Tempo Timesheet entry Assistant
 
 A Streamlit web app that uses Google Gemini LLM and Langchain tools to help you log time effortlessly into Jira Tempo.  
 Simply describe your time logs in natural language, and the AI assistant will update Jira issues accordingly.
