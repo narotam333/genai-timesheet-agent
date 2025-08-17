@@ -62,6 +62,7 @@ OR
 5b. Run the Streamlit app:
 
 streamlit run timesheet_entry/streamlit_app.py
+python -m streamlit run timesheet_entry/streamlit_app.py # if above doesn't work
 
 Open your browser at http://localhost:8501 and enter natural language commands like:
 Log 7.5 hours to all in-progress issues for this full week.
